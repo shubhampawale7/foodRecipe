@@ -1,0 +1,2 @@
+*foodRecipe filter=lfs diff=lfs merge=lfs -text
+foodRecipe filter=lfs diff=lfs merge=lfs -text
